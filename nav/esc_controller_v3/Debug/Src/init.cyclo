@@ -1,0 +1,3 @@
+/home/jyuc/stm32_ws/libraries/F4_chip_headers/CMSIS/Include/core_cm4.h:1816:22:__NVIC_SetPriority	2
+/home/jyuc/stm32_ws/libraries/F4_chip_headers/CMSIS/Include/core_cm4.h:2022:26:SysTick_Config	2
+../Src/init.c:4:6:SystemClock_Config	4

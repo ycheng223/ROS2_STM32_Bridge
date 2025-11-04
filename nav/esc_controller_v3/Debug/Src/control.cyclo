@@ -1,0 +1,5 @@
+../Src/control.c:17:6:Control_Init	1
+../Src/control.c:31:6:Control_ProcessByte	10
+../Src/control.c:80:6:Control_SafetyCheck	2
+../Src/control.c:87:6:Control_Stop	1
+../Src/control.c:93:6:Control_Brake	1

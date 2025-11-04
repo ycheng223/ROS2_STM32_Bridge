@@ -1,0 +1,9 @@
+../Src/vesc.c:14:17:VESC_CRC16	32	static
+../Src/vesc.c:34:13:VESC_AppendInt32	24	static
+../Src/vesc.c:43:17:VESC_FormatPacket	40	static
+../Src/vesc.c:79:13:VESC_SendBuffer	32	static
+../Src/vesc.c:108:6:VESC_SetDuty	48	static
+../Src/vesc.c:127:6:VESC_SetCurrent	48	static
+../Src/vesc.c:144:6:VESC_SetCurrentBrake	48	static
+../Src/vesc.c:161:6:VESC_SetRPM	48	static
+../Src/vesc.c:174:6:VESC_SetPosition	48	static

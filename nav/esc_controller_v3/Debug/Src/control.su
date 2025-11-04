@@ -1,0 +1,5 @@
+../Src/control.c:17:6:Control_Init	8	static
+../Src/control.c:31:6:Control_ProcessByte	24	static
+../Src/control.c:80:6:Control_SafetyCheck	8	static
+../Src/control.c:87:6:Control_Stop	8	static
+../Src/control.c:93:6:Control_Brake	16	static

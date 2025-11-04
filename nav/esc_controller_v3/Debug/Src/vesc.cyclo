@@ -1,0 +1,9 @@
+../Src/vesc.c:14:17:VESC_CRC16	4
+../Src/vesc.c:34:13:VESC_AppendInt32	1
+../Src/vesc.c:43:17:VESC_FormatPacket	4
+../Src/vesc.c:79:13:VESC_SendBuffer	5
+../Src/vesc.c:108:6:VESC_SetDuty	3
+../Src/vesc.c:127:6:VESC_SetCurrent	3
+../Src/vesc.c:144:6:VESC_SetCurrentBrake	3
+../Src/vesc.c:161:6:VESC_SetRPM	1
+../Src/vesc.c:174:6:VESC_SetPosition	3
